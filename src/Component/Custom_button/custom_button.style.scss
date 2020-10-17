@@ -1,0 +1,18 @@
+.custbutton{
+
+    height: 50px;
+    width: 150px;
+    color:white;
+    font-size: 14px;
+    background-color: black;
+    border-color: black;
+    margin: 0 10px 0 0;
+
+    &:hover{
+
+        background-color:white;
+        color:black;
+    }
+    
+
+}
